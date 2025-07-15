@@ -48,6 +48,26 @@
 
             #endregion
 
+            #region While | Do-While
+
+            #region do-while
+
+            //int Number;
+            //bool IsParse;
+
+            //do
+            //{
+            //Console.WriteLine("Enter Even Number");
+            //IsParse = int.TryParse(Console.ReadLine(), out Number);
+            //}
+            //while (Number % 2 != 0 || !IsParse);
+
+            //Console.WriteLine($"{Number} is an Even Number");
+
+            #endregion
+
+            #endregion
+
             #endregion
         }
     }
