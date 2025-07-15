@@ -66,6 +66,22 @@
 
             #endregion
 
+            #region While
+
+            //Console.Write("Enter a Number: ");
+            //bool IsParse = int.TryParse(Console.ReadLine(), out int Number);
+
+            //if (IsParse)
+            //{
+            //    while (Number <= 10)
+            //    {
+            //        Console.WriteLine(Number);
+            //        Number++;
+            //    }
+            //}
+
+            #endregion
+
             #endregion
 
             #endregion
