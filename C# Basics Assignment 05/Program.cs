@@ -1,4 +1,6 @@
-﻿namespace C__Basics_Assignment_05
+﻿using System.Text;
+
+namespace C__Basics_Assignment_05
 {
     internal class Program
     {
@@ -156,6 +158,23 @@
             //Console.WriteLine(Message.Replace('e', 't'));
             //Console.WriteLine(Message.Contains('o'));
             //Console.WriteLine(Message.GetType());
+
+            #endregion
+
+            #region String Builder
+
+            //StringBuilder Message;
+
+            //Message = new StringBuilder("Hello");
+
+            //Console.WriteLine($"Message = {Message}");
+            //Console.WriteLine($"Message Hash Code = {Message.GetHashCode()}");
+
+            //Message.Append(" Route");
+
+            //Console.WriteLine("After Change");
+            //Console.WriteLine($"Message = {Message}");
+            //Console.WriteLine($"Message Hash Code = {Message.GetHashCode()}");
 
             #endregion
         }
