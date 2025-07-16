@@ -85,6 +85,62 @@
             #endregion
 
             #endregion
+
+            #region String
+
+            #region Example 01
+
+            //string Name;
+
+            //Name = new string("Route"); // 10 bytes
+
+            //Console.WriteLine($"Name 01 is {Name}");
+            //Console.WriteLine($"Hash Code is {Name.GetHashCode()}");
+
+            //string Name02 = "Route";
+
+            //Console.WriteLine($"Name 02 is {Name02}");
+            //Console.WriteLine($"Hash Code is {Name02.GetHashCode()}");
+
+            #endregion
+
+            #region Example 02
+
+            //string Name01 = "Amr";
+            //string Name02 = "May";
+
+            //Console.WriteLine($"Name 01 is {Name01}");
+            //Console.WriteLine($"Hash Code is {Name01.GetHashCode()}");
+
+            //Console.WriteLine($"Name 02 is {Name02}");
+            //Console.WriteLine($"Hash Code is {Name02.GetHashCode()}");
+
+            //Name02 = Name01;
+
+            //Console.WriteLine($"Name 01 is {Name01}");
+            //Console.WriteLine($"Hash Code is {Name01.GetHashCode()}");
+
+            //Console.WriteLine($"Name 02 is {Name02}");
+            //Console.WriteLine($"Hash Code is {Name02.GetHashCode()}");
+
+            #endregion
+
+            #region Example 03
+
+            //string Message = "Hello";
+
+            //Console.WriteLine($"Message = {Message}");
+            //Console.WriteLine($"Message HashCode = {Message.GetHashCode()}");
+
+            //Message += " Route";
+
+            //Console.WriteLine("After Amend");
+            //Console.WriteLine($"Message = {Message}");
+            //Console.WriteLine($"Message HashCode = {Message.GetHashCode()}");
+
+            #endregion
+
+            #endregion
         }
     }
 }
