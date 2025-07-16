@@ -177,6 +177,39 @@ namespace C__Basics_Assignment_05
             //Console.WriteLine($"Message Hash Code = {Message.GetHashCode()}");
 
             #endregion
+
+            #region String Builder Methods
+
+            //StringBuilder Message = new StringBuilder("Hello");
+
+            //Message.Append(" Route");
+            //Console.WriteLine(Message);
+
+            //Message.AppendLine(" welcome");
+            //Console.WriteLine(Message);
+            //Message.Append("Mostafa");
+            //Console.WriteLine(Message);
+
+            //Message.Replace("Mostafa", "Ahmed");
+            //Console.WriteLine(Message);
+
+            ////Message.Clear();
+            ////Console.WriteLine(Message);
+
+            //Message.Remove(0, 5);
+            //Console.WriteLine(Message);
+
+            //Message.Insert(0, "Hi");
+            //Console.WriteLine(Message);
+
+            //int Age = 20;
+            //Message.AppendFormat(" Your age is {0}", Age);
+            //Console.WriteLine(Message);
+
+            //Message.AppendJoin('_', "Mostafa", "Hany", "Mohamed");
+            //Console.WriteLine(Message);
+
+            #endregion
         }
     }
 }
