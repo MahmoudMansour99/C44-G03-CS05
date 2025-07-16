@@ -141,6 +141,23 @@
             #endregion
 
             #endregion
+
+            #region String Methods
+
+            //string Message = "   Hello Route   ";
+
+            //Console.WriteLine(Message.Length);
+            //Console.WriteLine(Message.ToLower());
+            //Console.WriteLine(Message.ToUpper());
+            //Console.WriteLine(Message.Trim());
+            //Console.WriteLine(Message.TrimEnd());
+            //Console.WriteLine(Message.TrimStart());
+            //Console.WriteLine(Message.Substring(0, 5));
+            //Console.WriteLine(Message.Replace('e', 't'));
+            //Console.WriteLine(Message.Contains('o'));
+            //Console.WriteLine(Message.GetType());
+
+            #endregion
         }
     }
 }
